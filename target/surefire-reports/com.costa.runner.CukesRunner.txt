@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.costa.runner.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 187.514 s - in com.costa.runner.CukesRunner
